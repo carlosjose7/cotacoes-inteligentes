@@ -1,3 +1,11 @@
+# Secrets
+.env
+config.py
+
+# Outputs do projeto
+cotacoes.csv
+indicadores.csv
+*.parquet
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
